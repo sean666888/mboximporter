@@ -13,7 +13,7 @@ import (
     "time"
 
     "./src"
-    "github.com/bthomson/mbox"
+    "github.com/sean666888/mbox"
 )
 
 func main() {
